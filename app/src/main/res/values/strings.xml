@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewLogin</string>
+    <string name="user">账号:</string>
+    <string name="password">密码:</string>
+    <string name="i_user">请输入用户名或手机号</string>
+    <string name="i_password">请输入密码</string>
+    <string name="r_password">再次输入密码</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="My_Button">
+        <item name="android:background">@drawable/an_hb</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+
+    <style name="My_Edit">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingLeft">5dp</item>
+
+    </style>
+
+
+    <style name="My_LinearLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+</resources>
